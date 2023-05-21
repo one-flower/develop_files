@@ -1,7 +1,7 @@
 {
   "name": "flower_develop",
   "version": "1.0.0",
-  "description": "学习用",
+  "description": "学习用的记录项目",
   "main": "main.ts",
   "dependencies": {
     "typescript": "^5.0.4",
