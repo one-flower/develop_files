@@ -1,4 +1,4 @@
-// express_cs _cs应该删除
+// express 子编写文件
 
 declare module '@node/express' {
   interface Router {

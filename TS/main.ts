@@ -1,4 +1,4 @@
-/* 声明文件
+/* 自编写声明文件
  * typings 同名文件
  */
 import axios from 'axios'
