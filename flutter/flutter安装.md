@@ -24,7 +24,9 @@
    - FLUTTER_STORAGE_BASE_URL : https://storage.flutter-io.cn
    - PUB_HOSTED_URL : https://pub.flutter-io.cn
    - ANDROID_HOME : D:\AndoridSdk
-   - path 添加 %ANDROID_HOME%\platform-tools 和 %ANDROID_HOME%\tools
+   - path 添加
+     - %ANDROID_HOME%\platform-tools
+     - %ANDROID_HOME%\tools
 3. win + r ，
 
    1. 输入 cmd 打开控制台，
@@ -54,4 +56,4 @@
 
 1. 创建项目 flutter create name
 2. 进入编辑器，根据提示安装 dart flutter 两个插件
-3. 加载依赖 pub get
+3. 安装依赖 flutter pub get
